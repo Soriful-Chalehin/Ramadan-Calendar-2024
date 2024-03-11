@@ -154,6 +154,15 @@ html body .container .active-ramadan{
         width: 100%;
     }
 }
+@media all and (max-width: 380px) {
+    html{
+        font-size: 15px;
+    }
+    table{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
 /* --------------------------------------------------- */
 /**
 * all code are writen by Soriful Chalehin. 
